@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## And I start writing from here
+
+will do some "hand work".. but will sit the openapi json on assets and think what to do with this file later. 
+
+cool imagine.. 
+
+https://www.youtube.com/watch?v=mSZXWdKSQNM&list=RDJDG2m5hN1vo&index=27
+
+https://youtu.be/EJRdDhnTRoo
